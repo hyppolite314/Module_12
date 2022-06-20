@@ -24,7 +24,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   Recall scores: For "0" = 0.99 ; For "1" = 0.91
 
 
-![Screenshot of Plot](https://github.com/hyppolite314/geo_analysis_realty/blob/main/inter_plot.png?raw=true)
+![Screenshot of Plot](https://github.com/hyppolite314/Module_12/blob/main/screen_model_1.png)
 
 
 * Machine Learning Model 2:
@@ -36,7 +36,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   <br>
   Recall scores: For "0" = 0.99 ; For "1" = 0.99
   
-![Screenshot of Plot](https://github.com/hyppolite314/geo_analysis_realty/blob/main/inter_plot.png?raw=true)
+![Screenshot of Plot](https://github.com/hyppolite314/Module_12/blob/main/screen_model_2.png)
 
 ## Summary
 

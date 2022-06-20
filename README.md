@@ -1,2 +1,2 @@
 # Module_12
-In this Challenge, you’ll use various techniques to train and evaluate models with imbalanced classes. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
+For this analysis, we were provided with historical lending data from a peer-to-peer lending group. The historical lending data included information about the borrowers such as their income, loan size, and the number of accounts they had open. Based on this data, we used a logistic regression model to 'learn' the behavior of the data in order to make predictions of future high-risk loans.
